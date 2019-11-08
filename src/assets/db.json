@@ -1,0 +1,40 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "firstName": "chiru",
+      "lastName": "uday",
+      "code": "1",
+      "salary":65000,
+      "contactNumber": "9000401662",
+      "address": "kphb"
+    },
+    {
+      "id": 2,
+      "firstName": "suresh",
+      "lastName": "kumar",
+      "code": "2",
+      "salary":55000,
+      "contactNumber": "9848022338",
+      "address": "Vizag"
+    },
+    {
+      "id": 3,
+      "firstName": "mahendra",
+      "lastName": "chary",
+      "code": "3",
+      "salary":150000,
+      "contactNumber": "8978692760",
+      "address": "ameerpet"
+    },
+    {
+      "id": 4,
+      "firstName": "narendra",
+      "lastName": "chary",
+      "code": "4",
+      "salary":123000,
+      "contactNumber": "9492035057",
+      "address": "asfd"
+    }
+  ]
+}
